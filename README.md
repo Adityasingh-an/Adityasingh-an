@@ -8,7 +8,7 @@
 - 💡 Interested in **Machine Learning, Web Dev, and AI-based projects**  
 - 🌱 Currently learning **Full Stack Development & Data Structures**  
 - 💼 Open to collaborating on **Open Source & Research Projects**  
-- 📫 How to reach me: **aditya.singh@example.com**
+- 📫 How to reach me: **adityasing1276@gmail.com**
 
 ---
 
