@@ -26,7 +26,7 @@
 ---
 
 ### 📂 Featured Projects  
-- 🔗 [Portfolio Website](https://github.com/Adityasingh-an/portfolio)  
+- 🔗 [Portfolio Website](https://adityasingh-2000-portfolio.vercel.app/)  
 - 🔗 [AI Chatbot](https://github.com/Adityasingh-an/ai-chatbot)  
 - 🔗 [E-commerce Website](https://github.com/Adityasingh-an/ecommerce)  
 
