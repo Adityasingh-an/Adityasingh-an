@@ -34,14 +34,12 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityasingh-an&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityasingh-an&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasingh-an&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Adityasingh-an&theme=tokyonight" />
 </p>
-
----
 
 ### 🌐 Connect with Me  
 <p align="left">
