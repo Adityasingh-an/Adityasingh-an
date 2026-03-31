@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/aditya-singh-a3173a27a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:aditya.singh@example.com">
+  <a href="mailto:adityasing1276@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
