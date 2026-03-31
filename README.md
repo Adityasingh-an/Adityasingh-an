@@ -1,8 +1,8 @@
 <h1 align="center" style="color:#ff6b52;">Hi 👋, I'm Aditya Singh</h1>
 
-<h3 align="center" style="color:#a0aec0;">
+<h2 align="center" style="color:#a0aec0;">
 Full Stack Developer | Software Engineer | App Developer | AI/ML Engineer
-</h3>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF6B52&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;App+Developer;AI%2FML+Engineer" />
@@ -35,7 +35,7 @@ Full Stack Developer | Software Engineer | App Developer | AI/ML Engineer
 * 🌐 [Portfolio Website](https://adityasingh-2000-portfolio.vercel.app/)
 * 🤖 [AI Chatbot](https://github.com/Adityasingh-an/ai-chatbot)
 * 🎓 [College Fest Website](https://bbd-utkarsh.org/)
-* 🏫 Kidzee School Website
+* 🏫 Kidzee School Website 
 * 📊 AI / Machine Learning Project (Coming Soon)
 
 ---
