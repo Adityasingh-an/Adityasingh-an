@@ -72,13 +72,13 @@ Full Stack Developer | Software Engineer | App Developer | AI/ML Engineer
 
 ---
 
-## 👀 Profile Views
+<!--## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adityasingh-an&color=ff6b52&style=flat" />
 </p>
 
----
+--- --!>
 
 ## 🌐 Connect With Me
 
