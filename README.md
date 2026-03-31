@@ -1,52 +1,101 @@
-<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">BTech CSE (AI) Student | Passionate about AI, Web Development & Open Source</h3>
+<h1 align="center" style="color:#ff6b52;">Hi 👋, I'm Aditya Singh</h1>
 
----
-
-### 👨‍💻 About Me  
-- 🎓 Pursuing **BTech in Computer Science (AI)**  
-- 💡 Interested in **Machine Learning, Web Dev, and AI-based projects**  
-- 🌱 Currently learning **Full Stack Development & Data Structures**  
-- 💼 Open to collaborating on **Open Source & Research Projects**  
-- 📫 How to reach me: **adityasing1276@gmail.com**
-
----
-
-### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📂 Featured Projects  
-- 🧍‍♂️ [Portfolio Website](https://adityasingh-2000-portfolio.vercel.app/)  
-- 🤖 [AI Chatbot](https://github.com/Adityasingh-an/ai-chatbot)  
-- 🏫 [College Fest Websitwe](https://bbd-utkarsh.org/)  
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityasingh-an&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
+<h3 align="center" style="color:#a0aec0;">
+Full Stack Developer | Software Engineer | App Developer | AI/ML Engineer
+</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adityasingh-an&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6B52&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;App+Developer;AI%2FML+Engineer" />
 </p>
 
-### 🌐 Connect with Me  
-<p align="left">
+---
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech CSE (Artificial Intelligence) Student
+* 💻 Full Stack Developer (React, Node.js, MongoDB)
+* 🤖 Currently Learning AI/ML & Data Science
+* 🌐 Building Real World Projects
+* 🚀 Goal: Become Software Engineer in Top Tech Company
+* 📍 India
+* 📫 Email: [adityasing1276@gmail.com](mailto:adityasing1276@gmail.com)
+
+---
+
+## 🚀 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,mongodb,html,css,tailwind,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+* 🌐 [Portfolio Website](https://adityasingh-2000-portfolio.vercel.app/)
+* 🤖 [AI Chatbot](https://github.com/Adityasingh-an/ai-chatbot)
+* 🎓 [College Fest Website](https://bbd-utkarsh.org/)
+* 🏫 Kidzee School Website
+* 📊 AI / Machine Learning Project (Coming Soon)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityasingh-an&show_icons=true&theme=tokyonight&title_color=ff6b52&icon_color=ff6b52&text_color=a0aec0&bg_color=0d1117&cache_seconds=86400" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adityasingh-an&theme=tokyonight&ring=ff6b52&fire=ff6b52&currStreakLabel=ff6b52" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityasingh-an&bg_color=0d1117&color=ff6b52&line=ff6b52&point=ffffff" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityasingh-an&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adityasingh-an&color=ff6b52&style=flat" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/aditya-singh-a3173a27a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:adityasing1276@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://github.com/Adityasingh-an">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center" style="color:#a0aec0;">
+⭐ From <b>Aditya Singh</b> | AI/ML Engineer | Full Stack Developer
 </p>
